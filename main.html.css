@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+          /* <link href="main.css">  */
+	 <style>
+               #container
+               {
+               width:98%;
+               margin:auto;
+	       border:5px ridge white;
+              
+               }
+              
+               h1
+               {
+               color:#FFFFFF;
+               text-align: center;
+               }
+               
+               body
+               {
+                
+                margin:0px;
+                padding:0px;
+                background-image: url("background.jpg"); 
+                background-attachment: fixed;
+                background-repeat: no-repeat;
+               background-size: 100% 100%;
+               }
+               img                 
+               {
+              margin: auto;
+               }
+
+               p
+               { 
+               color:white;
+               text-align: center;
+               }
+
+               #backgroundimage
+{
+width:1000px;
+height:1000px;
+}
+
+
+
+
+
+	 </style>
+
+
+
+
+
+
+    </head>
+
+    <body>
+        <div id="container">
+        <h1>Zelda Breath Of The Wild<br> how to capture all 4 Divine beasts and defeat all 4 Blight ganon</h1>
+        <p>
+This tutorial will cover full guides on defeating all 4 Divine Beast throughout Zelda Breath Of The Wild and how to defeat the Blight Ganon at the end.
+
+</p>
+        </div>
+
+<br>
+        <img src="vah ruta.jpg" width=633px height=356px  class="center" />
+        <img src="vah medoh.jpg" width=633px height=356px   class="center"       >      
+    </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
