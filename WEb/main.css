@@ -39,7 +39,16 @@
 
     .img-container {
         text-align: center;
+        position: relative;
     }
+
+    .img-container img {
+        transition: all 0.3s ease-in-out;
+}
+
+.container:hover img {
+    transform: translateY(-10px);
+}
 
 img {
    display: block;
@@ -48,14 +57,9 @@ img {
     height: 30px; */
 } 
 
-.hoverable {
+.sword {
     
     width: 40px;
     height: 40px;
-    opacity: 1;
-    transition: opacity: 0.5;
 }
 
-.hoverable:hover {
-    opacity: 0.5;
-}
