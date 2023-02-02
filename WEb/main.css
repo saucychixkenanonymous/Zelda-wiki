@@ -40,6 +40,7 @@
     .img-container {
         text-align: center;
         position: relative;
+        z-index: 1;
     }
 
     .img-container img {
@@ -48,6 +49,7 @@
 
 .container:hover img {
     transform: translateY(-10px);
+    z-index: 2;
 }
 
 img {
