@@ -48,7 +48,8 @@ img {
     height: 30px; */
 } 
 
-.Sword {
+.Sword:hover {
+    
     width: 40px;
     height: 40px;
 }
